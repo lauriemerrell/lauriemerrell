@@ -3,7 +3,6 @@
 
 # Welcome!
 
-📍 &nbsp; Chicago, IL, USA\
 👤 &nbsp; she/her\
 💻 &nbsp; Python, R, SQL, D3.js\
 🔢 &nbsp; Data cleaning, manipulation, and analysis; predictive modeling

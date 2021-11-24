@@ -7,4 +7,4 @@
 💻 &nbsp; Python, R, SQL, D3.js\
 🔢 &nbsp; Data cleaning, manipulation, visualization, and analysis; predictive modeling
 
-Find out about my background on [LinkedIn](https://www.linkedin.com/in/laurie-merrell/).
+Find out more about my background on [LinkedIn](https://www.linkedin.com/in/laurie-merrell/).
